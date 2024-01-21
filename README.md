@@ -118,9 +118,9 @@ El sensor puede detectar la información de la velocidad y dirección que lo con
     ```
 ***N4***: Al ya saber todo esto decidi utilizar otra libreria llamada SparkFun que ademas de obtener datos RGB podia obtener la luz ambiente de su alrededor, esta no se congelaba y envia los datos correctamente, incluso hice unos pequeños condicionales para que hagan unos print a la hora detectar los colores rojo y verde. 
 
-## **Conclusión**: El sensor requiere esta por lo menos 20cm de distancia al objeto para que tenga una mejor lectura de los datos RGB, depende mucho de la iluminación ambiente, pero con la libreria SparkFun no sufre congelamientos y funciona correctamente. 
+**Conclusión**: El sensor requiere esta por lo menos 20cm de distancia al objeto para que tenga una mejor lectura de los datos RGB, depende mucho de la iluminación ambiente, pero con la libreria SparkFun no sufre congelamientos y funciona correctamente. 
 
-## **Problemas en el progreso**: El unico problema fue comprobar el tema de driver y el mal estado de los cables, varios se rompieron y tuve que cambiarlos soldando algunos porque no tenia machos en casa.
+**Problemas en el progreso**: El unico problema fue comprobar el tema de driver y el mal estado de los cables, varios se rompieron y tuve que cambiarlos soldando algunos porque no tenia machos en casa.
 
 
 
